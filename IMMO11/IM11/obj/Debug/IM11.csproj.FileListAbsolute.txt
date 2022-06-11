@@ -1,0 +1,11 @@
+C:\Users\xisao\Downloads\IM11-master\IM11-master\IM11\bin\Debug\IM11.exe.config
+C:\Users\xisao\Downloads\IM11-master\IM11-master\IM11\bin\Debug\IM11.exe
+C:\Users\xisao\Downloads\IM11-master\IM11-master\IM11\bin\Debug\IM11.pdb
+C:\Users\xisao\Downloads\IM11-master\IM11-master\IM11\obj\Debug\IM11.csproj.AssemblyReference.cache
+C:\Users\xisao\Downloads\IM11-master\IM11-master\IM11\obj\Debug\IM11.csproj.SuggestedBindingRedirects.cache
+C:\Users\xisao\Downloads\IM11-master\IM11-master\IM11\obj\Debug\IM11.Form1.resources
+C:\Users\xisao\Downloads\IM11-master\IM11-master\IM11\obj\Debug\IM11.Properties.Resources.resources
+C:\Users\xisao\Downloads\IM11-master\IM11-master\IM11\obj\Debug\IM11.csproj.GenerateResource.cache
+C:\Users\xisao\Downloads\IM11-master\IM11-master\IM11\obj\Debug\IM11.csproj.CoreCompileInputs.cache
+C:\Users\xisao\Downloads\IM11-master\IM11-master\IM11\obj\Debug\IM11.exe
+C:\Users\xisao\Downloads\IM11-master\IM11-master\IM11\obj\Debug\IM11.pdb
